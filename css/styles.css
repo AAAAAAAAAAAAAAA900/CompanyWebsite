@@ -87,3 +87,10 @@ div.photo-holder {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+#about-container img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: auto;
+}
